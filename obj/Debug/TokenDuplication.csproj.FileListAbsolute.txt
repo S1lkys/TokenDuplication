@@ -1,0 +1,8 @@
+C:\Users\mbzra\source\repos\TokenDuplication\bin\Debug\TokenDuplication.exe.config
+C:\Users\mbzra\source\repos\TokenDuplication\bin\Debug\TokenDuplication.exe
+C:\Users\mbzra\source\repos\TokenDuplication\bin\Debug\TokenDuplication.pdb
+C:\Users\mbzra\source\repos\TokenDuplication\obj\Debug\TokenDuplication.csproj.AssemblyReference.cache
+C:\Users\mbzra\source\repos\TokenDuplication\obj\Debug\TokenDuplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbzra\source\repos\TokenDuplication\obj\Debug\TokenDuplication.csproj.CoreCompileInputs.cache
+C:\Users\mbzra\source\repos\TokenDuplication\obj\Debug\TokenDuplication.exe
+C:\Users\mbzra\source\repos\TokenDuplication\obj\Debug\TokenDuplication.pdb
